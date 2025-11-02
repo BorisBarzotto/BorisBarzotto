@@ -111,7 +111,6 @@ Mi experiencia se materializa en la construcción de sistemas de misión crític
 | Proyecto | Descripción | Tecnología Clave | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Quickadmin Software** | Aplicación de facturación escalable, con foco en el sector construcción. Integra **Inteligencia Artificial (OpenAI)** para funcionalidades avanzadas. | **NextJS**, **NestJS**, **Postgres**, Stripe, **Supabase**, Astro. | [quickadminsoftware.com](https://quickadminsoftware.com/) |
-| **[Nombre Proyecto 2]** | *[Agrega un segundo proyecto importante aquí o borra esta fila]* | | |
 
 ---
 
