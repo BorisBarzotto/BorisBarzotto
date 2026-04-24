@@ -124,8 +124,6 @@ I have collaborated with various organizations, applying system engineering skil
 * **Visual Marketing Agency & JGR Autodist:** Tech solutions for business and marketing.
 * **Botpress Ambassador:** Leadership and development of conversational AI solutions.
 
----
-
 ## 📧 Connect With Me
 
 I am always open to discussing new ideas, collaboration opportunities, or just talking about tech.
@@ -137,7 +135,29 @@ I am always open to discussing new ideas, collaboration opportunities, or just t
   BorisBarzotto#9407 (Send me a request)
 </p>
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisBarzotto&show_icons=true&theme=dark)
+---
+
+## 🚀 Services & Mentorship
+
+As a **Systems Engineer**, I help businesses and developers bridge the gap between complex requirements and scalable software.
+
+### 💼 For Businesses & Startups
+* **Full-Stack Product Development:** Building end-to-end applications (Next.js, NestJS, PostgreSQL) focusing on scalability and performance.
+* **Custom AI Integration:** Implementing LLMs and conversational AI (Botpress/OpenAI) to automate business processes and enhance user experience.
+* **Architecture Consulting:** Designing robust system architectures for mission-critical software, specialized in billing and management systems.
+
+### 👨‍🏫 Mentorship & Training
+* **Developer Coaching:** Personalized sessions for junior/mid-level devs looking to master the JavaScript/TypeScript ecosystem.
+* **AI Implementation Workshops:** Practical training on how to integrate AI agents and RAG (Retrieval-Augmented Generation) into existing stacks.
+* **System Design:** Teaching the principles of designing scalable and maintainable software systems.
+
+> [!TIP]
+> **Looking for a technical partner or mentor?** Let's discuss how we can scale your project or career.
+
+## ⚡ Beyond the Code
+- 📚 **Currently reading:** *The Horus Heresy* (still processing the betrayal in Book 1).
+- 🎸 **Musical side:** I compose for classical guitar. I have a weakness for the C to Asus2 chord transition.
+- 🕹️ **Gaming:** Strategic mind sharpened by *Dwarf Fortress* and *No Man's Sky*.
+- 🇻🇪 **Location:** Based in Valencia, Carabobo, Venezuela.
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
