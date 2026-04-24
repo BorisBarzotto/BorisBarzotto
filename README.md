@@ -4,21 +4,21 @@
 
 <div align="center">
   
-  # Hola! 👋 Soy Boris Barzotto
+  # Hi there! 👋 I'm Boris Barzotto
   
-  ## 💻 Desarrollador Full Stack | Ingeniero de Sistemas
+  ## 💻 Full Stack Developer | Systems Engineer
   
-  > **"Mi vocación: diseñar sistemas, no solo escribir código."**
+  > **"My vocation: designing systems, not just writing code."**
   
 </div>
 
 ---
 
-## 🛠️ Stack de Tecnología & Herramientas
+## 🛠️ Tech Stack & Tools
 
-Mi experiencia abarca el desarrollo de software de principio a fin, utilizando una amplia y versátil gama de tecnologías para crear soluciones escalables y eficientes.
+My experience covers full-lifecycle software development, utilizing a wide and versatile range of technologies to create scalable and efficient solutions.
 
-### 🌐 Lenguajes de Programación
+### 🌐 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828">
@@ -29,9 +29,9 @@ Mi experiencia abarca el desarrollo de software de principio a fin, utilizando u
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=282828">
 </p>
 
-* **JavaScript/TypeScript:** Base de la web moderna; TypeScript para **código escalable** y tipado estricto.
-* **Python:** Preferido para **backend**, automatización, Machine Learning e infraestructura.
-* **Node, Java, PHP, C#:** Entornos de ejecución y lenguajes versátiles para **diversas arquitecturas** y sistemas empresariales.
+* **JavaScript/TypeScript:** The core of the modern web; using TypeScript for **scalable code** and strict typing.
+* **Python:** Preferred for **backend**, automation, Machine Learning, and infrastructure.
+* **Node, Java, PHP, C#:** Versatile runtimes and languages for **diverse architectures** and enterprise systems.
 
 <br>
 
@@ -49,10 +49,10 @@ Mi experiencia abarca el desarrollo de software de principio a fin, utilizando u
   <img src="https://img.shields.io/badge/-Apache_Wicket-4786A0?style=for-the-badge&logo=apache&logoColor=white&labelColor=282828">
 </p>
 
-* **Next.js, Astro & React:** Creación de interfaces web y móviles **rápidas** y **optimizadas** (SSR, SSG, SPA).
-* **React Native & Expo:** Desarrollo de **aplicaciones móviles nativas** para iOS y Android.
-* **Three.js & Godot:** Experiencia en gráficos 3D interactivos, visualización y desarrollo de **prototipos de juegos**.
-* **Tailwind & Antd:** Estilizado moderno, sistemas de diseño profesional (Antd) y utilidades CSS (*Tailwind*).
+* **Next.js, Astro & React:** Creating **fast and optimized** web and mobile interfaces (SSR, SSG, SPA).
+* **React Native & Expo:** Developing **native mobile applications** for iOS and Android.
+* **Three.js & Godot:** Experience in interactive 3D graphics, visualization, and **game prototyping**.
+* **Tailwind & Antd:** Modern styling, professional design systems (Antd), and CSS utility-first approaches (*Tailwind*).
 
 <br>
 
@@ -69,14 +69,14 @@ Mi experiencia abarca el desarrollo de software de principio a fin, utilizando u
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=282828">
 </p>
 
-* **NestJS & Express:** Construcción de APIs **modulares y escalables** con arquitectura Node.js.
-* **CMS (Headless & Tradicional):** Experiencia en Strapi, Payload, WordPress y sistemas ERP como Odoo.
-* **BaaS (Supabase, Firebase):** Soluciones *Backend as a Service* para desarrollo ágil y autenticación.
-* **Botpress:** Implementación de **IA conversacional** y asistentes virtuales (como embajador).
+* **NestJS & Express:** Building **modular and scalable** APIs with Node.js architecture.
+* **CMS (Headless & Traditional):** Experience with Strapi, Payload, WordPress, and ERP systems like Odoo.
+* **BaaS (Supabase, Firebase):** Backend as a Service solutions for agile development and authentication.
+* **Botpress:** Implementation of **conversational AI** and virtual assistants (Ambassador).
 
 <br>
 
-### 💾 Bases de Datos & Data
+### 💾 Databases & Data
 <p align="left">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282828">
@@ -84,12 +84,12 @@ Mi experiencia abarca el desarrollo de software de principio a fin, utilizando u
   <img src="https://img.shields.io/badge/-Machine_Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=282828">
 </p>
 
-* **Postgres, Mongo, MySQL:** Modelado, gestión y optimización de datos en entornos SQL y NoSQL.
-* **Machine Learning:** Integración de **modelos predictivos** y soluciones de IA (ej. OpenAI) en aplicaciones.
+* **Postgres, Mongo, MySQL:** Data modeling, management, and optimization across SQL and NoSQL environments.
+* **Machine Learning:** Integration of **predictive models** and AI solutions (e.g., OpenAI) into applications.
 
 <br>
 
-### ☁️ DevOps & Herramientas
+### ☁️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=282828">
@@ -98,46 +98,46 @@ Mi experiencia abarca el desarrollo de software de principio a fin, utilizando u
   <img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=282828">
 </p>
 
-* **Docker & CI/CD:** Contenerización y automatización de **flujos de despliegue** (*pipelines*).
-* **GitHub Actions & Copilot:** Optimización de la productividad y **colaboración** en el entorno GitHub.
-* **Google Cloud API:** Integración con servicios en la nube para escalar proyectos.
+* **Docker & CI/CD:** Containerization and automation of **deployment pipelines**.
+* **GitHub Actions & Copilot:** Enhancing productivity and **collaboration** within the GitHub ecosystem.
+* **Google Cloud API:** Integration with cloud services to scale projects effectively.
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-Mi experiencia se materializa en la construcción de sistemas de misión crítica, como este proyecto en producción por varios años:
+My experience is reflected in the construction of mission-critical systems, such as this long-standing production project:
 
-| Proyecto | Descripción | Tecnología Clave | Enlace |
+| Project | Description | Key Tech | Link |
 | :--- | :--- | :--- | :--- |
-| **Quickadmin Software** | Aplicación de facturación escalable, con foco en el sector construcción. Integra **Inteligencia Artificial (OpenAI)** para funcionalidades avanzadas. | **NextJS**, **NestJS**, **Postgres**, Stripe, **Supabase**, Astro. | [quickadminsoftware.com](https://quickadminsoftware.com/) |
+| **Quickadmin Software** | A scalable billing application focused on the construction industry. Integrates **Artificial Intelligence (OpenAI)** for advanced functionalities. | **NextJS**, **NestJS**, **Postgres**, Stripe, **Supabase**, Astro. | [quickadminsoftware.com](https://quickadminsoftware.com/) |
 
 ---
 
-## 💼 Experiencia & Colaboraciones
+## 💼 Experience & Collaborations
 
-He colaborado y trabajado con diversas organizaciones, aplicando mis habilidades de ingeniería de sistemas a problemas reales, desde startups hasta entidades académicas.
+I have collaborated with various organizations, applying system engineering skills to real-world problems, ranging from startups to academic institutions.
 
-* **Jtech Solutions & Quickadmin Software:** Desarrollo de software y soluciones para clientes.
-* **LACNIC:** Contribuciones a proyectos de infraestructura de internet.
-* **Universidad Arturo Michelena:** Experiencia en el ámbito académico y de investigación.
-* **Visual Agencia de Marketing & JGR Autodist:** Soluciones tecnológicas para negocios y marketing.
-* **Embajador Botpress:** Liderazgo y desarrollo de soluciones de IA conversacional.
+* **Jtech Solutions & Quickadmin Software:** Software development and client solutions.
+* **LACNIC:** Contributions to internet infrastructure projects.
+* **Universidad Arturo Michelena:** Experience in academic and research environments.
+* **Visual Marketing Agency & JGR Autodist:** Tech solutions for business and marketing.
+* **Botpress Ambassador:** Leadership and development of conversational AI solutions.
 
 ---
 
-## 📧 Conéctate Conmigo
+## 📧 Connect With Me
 
-Siempre estoy abierto a discutir nuevas ideas, oportunidades de colaboración o simplemente hablar de tecnología.
+I am always open to discussing new ideas, collaboration opportunities, or just talking about tech.
 
-➡️ **Correo Electrónico:** borisbarzotto@gmail.com
+➡️ **Email:** borisbarzotto@gmail.com
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828"> 
-  BorisBarzotto#9407 (Envíame una solicitud)
+  BorisBarzotto#9407 (Send me a request)
 </p>
 
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisBarzotto&show_icons=true&theme=dark)
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
----
