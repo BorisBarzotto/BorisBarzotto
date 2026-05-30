@@ -6,7 +6,7 @@
   
   # Hi there! 👋 I'm Boris Barzotto
   
-  ## 💻 Full Stack Developer | Systems Engineer
+  ## 💻 Full Stack Developer | Systems Engineer | Forward Deployed Engineer
   
   > **"My vocation: designing systems, not just writing code."**
   
