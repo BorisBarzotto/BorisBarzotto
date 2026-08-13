@@ -85,7 +85,7 @@ My experience covers full-lifecycle software development, utilizing a wide and v
 </p>
 
 * **Postgres, Mongo, MySQL:** Data modeling, management, and optimization across SQL and NoSQL environments.
-* **Machine Learning:** Integration of **predictive models** and AI solutions (e.g., OpenAI) into applications.
+* **Machine Learning:** Integration of **predictive models** and AI solutions into applications.
 
 <br>
 
@@ -104,13 +104,24 @@ My experience covers full-lifecycle software development, utilizing a wide and v
 
 ---
 
+## 🤖 AI Integrations & Autonomous Agents
+
+My expertise extends deeply into the Artificial Intelligence ecosystem, designing intelligent workflows and bridging the gap between sophisticated LLMs and real-world business logic. I build solutions that go beyond basic chatbots, creating functional AI that drives autonomous operations.
+
+* **LLM Integrations & RAG:** Seamlessly integrating a diverse catalog of models—from **OpenAI** to **cutting-edge Chinese models (like DeepSeek, Qwen, etc.)**—into production applications for advanced data processing, document retrieval, and dynamic natural language interfaces.
+* **Autonomous Agents & Workflows:** Designing and deploying autonomous conversational agents using platforms like **Botpress**. I engineer complex, functional nodes capable of independent execution, decision-making, and multi-step reasoning within enterprise environments.
+* **Deterministic Data Validation:** Crafting precise, flat validation schemas (utilizing tools like Zod without nested reusable sub-schemas) to ensure LLM tool-calling outputs are strictly deterministic, reliable, and perfectly tailored for database ingestion and APIs.
+* **Custom AI Architectures:** From intelligent CRM automation to tailored institutional workflows, I architect AI systems that scale seamlessly with specific operational needs.
+
+---
+
 ## 📌 Featured Projects
 
 My experience is reflected in the construction of mission-critical systems, such as this long-standing production project:
 
 | Project | Description | Key Tech | Link |
 | :--- | :--- | :--- | :--- |
-| **Quickadmin Software** | A scalable billing application focused on the construction industry. Integrates **Artificial Intelligence (OpenAI)** for advanced functionalities. | **NextJS**, **NestJS**, **Postgres**, Stripe, **Supabase**, Astro. | [quickadminsoftware.com](https://quickadminsoftware.com/) |
+| **Quickadmin Software** | A scalable billing application focused on the construction industry. Integrates **Artificial Intelligence (OpenAI & SOTA Chinese Models)** for advanced functionalities. | **NextJS**, **NestJS**, **Postgres**, Stripe, **Supabase**, Astro. | [quickadminsoftware.com](https://quickadminsoftware.com/) |
 
 ---
 
@@ -145,7 +156,7 @@ As a **Systems Engineer**, I help businesses and developers bridge the gap betwe
 
 ### 💼 For Businesses & Startups
 * **Full-Stack Product Development:** Building end-to-end applications (Next.js, NestJS, PostgreSQL) focusing on scalability and performance.
-* **Custom AI Integration:** Implementing LLMs and conversational AI (Botpress/OpenAI) to automate business processes and enhance user experience.
+* **Custom AI Integration:** Implementing a wide catalog of LLMs (OpenAI, Vanguard Chinese Models) and conversational AI (Botpress) to automate business processes and enhance user experience.
 * **Architecture Consulting:** Designing robust system architectures for mission-critical software, specialized in billing and management systems.
 
 ### 👨‍🏫 Mentorship & Training
